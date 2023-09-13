@@ -1,5 +1,6 @@
 def fibonacci(num: int) -> int:
     print("Hello Raffey Commit")
+    print("Hello Pre Commit")
     if num in {0, 1}:
         return num
     print("Hello Post Commit")
